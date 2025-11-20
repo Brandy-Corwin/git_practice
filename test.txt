@@ -3,3 +3,5 @@ I am practicing using git!
 I am chinging the contents of this file.
 NEW BRANCH!
 There will be a merge conflict here!!!
+
+Changing from past commit.
